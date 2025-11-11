@@ -11,8 +11,7 @@ A full-stack web application to manage student records, built using Node.js, Exp
 ## Setup Instructions
 
 1. Clone this repository:
-   git clone https://github.com/shreesm17/Student-Management-System.git
-
+   git clone https://github.com/Vishali2801/STUDENT-MANAGEMENT/edit/main/README.md
 2. Navigate to the backend folder and install dependencies:
    cd backend
    npm install
