@@ -29,5 +29,5 @@ A full-stack web application to manage student records, built using Node.js, Exp
    http://localhost:3000
 
 ## Author
-Shreejaa SM
+vishali s
 
